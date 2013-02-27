@@ -1,0 +1,690 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"white",
+				"white-stripe"
+			],
+			[
+				"head",
+				"header2"
+			],
+			[
+				"hea",
+				"header2"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"con",
+				"contactPosition"
+			],
+			[
+				"abou",
+				"aboutPosition"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"backgroi",
+				"background-image"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"Nationali",
+				"Nationalität"
+			],
+			[
+				"pass",
+				"passwordSaved"
+			],
+			[
+				"old",
+				"oldPass"
+			],
+			[
+				"new",
+				"newPass1"
+			],
+			[
+				"newP",
+				"newPass1"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"ta",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"gistat",
+				"Git: Status"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php echo … ?>"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/wamp/www/ackermannRMuV/www/header.inc.php",
+		"/E/wamp/www/ackermannRMuV/www/index2.php",
+		"/E/wamp/www/ackermannRMuV/www/footer2.inc.php",
+		"/E/wamp/www/ackermannRMuV/www/Scripts/film-lightbox.js",
+		"/E/wamp/www/ackermannRMuV/www/css/styles.css",
+		"/E/wamp/www/ackermannRMuV/www/footer.inc.php",
+		"/E/wamp/www/ackermannRMuV/www/code1",
+		"/E/wamp/www/ackermannRMuV/www/code2",
+		"/E/wamp/www/qualinsur/home.html",
+		"/E/wamp/www/ackermannRMuV/www/includes/pdf.hausrat.inc.php",
+		"/E/wamp/www/ackermannRMuV/www/includes/pdf.autoversicherung.inc.php",
+		"/E/wamp/www/ackermannRMuV/www/includes/pdf.bauversicherung.inc.php",
+		"/E/wamp/www/ackermannRMuV/www/includes/pdf.privathaftpflicht.inc.php",
+		"/E/wamp/drupalowe/drupal-6-26/drupal-6.26/UPGRADE.txt",
+		"/E/wamp/drupalowe/moduly6/date/INSTALL.txt",
+		"/E/wamp/drupalowe/moduly6/date/CHANGELOG.txt",
+		"/E/wamp/drupalowe/moduly6/jquery_ui/README.txt",
+		"/E/wamp/drupalowe/moduly6/views/README.txt",
+		"/E/wamp/drupalowe/moduly6/date/LICENSE.txt",
+		"/E/wamp/drupalowe/moduly6/date/README.txt",
+		"/E/wamp/www/qualinsur/index.html",
+		"/E/wamp/www/ackermannRMuV/www/index.php",
+		"/E/wamp/www/ackermannRMuV/www/_index.php",
+		"/E/wamp/www/ackermannRMuV/www/class.formelements.php",
+		"/E/wamp/www/ackermannRMuV/www/class.activate.php",
+		"/E/wamp/www/ackermannRMuV/www/neuigkeiten/index.php",
+		"/E/wamp/www/ackermannRMuV/www/neuigkeiten/frost-hat-den-dachziegeln-zugesetzt-zahlt-die-versicherung.php",
+		"/E/wamp/www/ackermannRMuV/www/__index.php",
+		"/E/wamp/www/ackermannRMuV/www/ftpsync.settings",
+		"/E/wamp/www/ackermannRMuV/www/bbb.php",
+		"/E/wamp/www/ackermannRMuV/www/class.form.php",
+		"/E/wamp/www/ackermannRMuV/www/form.php",
+		"/E/wamp/www/ackermannRMuV/www/_description of processes.txt",
+		"/E/wamp/www/ackermannRMuV/www/class.validator.php",
+		"/E/wamp/www/ackermannRMuV/www/class.mailer.php",
+		"/E/wamp/www/ackermannRMuV/www/Scripts/development-bundle/AUTHORS.txt",
+		"/E/wamp/www/ackermannRMuV/www/bauversicherung.php",
+		"/E/wamp/www/ackermannRMuV/www/includes/email.hausrat.inc.php",
+		"/E/wamp/www/ackermannRMuV/www/hausrat.php",
+		"/E/wamp/www/ackermannRMuV/www/hausrat__.php",
+		"/E/wamp/www/ackermannRMuV/www/privathaftpflicht.php",
+		"/E/wamp/www/ackermannRMuV/www/includes/email.fahrzeugkasko.inc.php",
+		"/E/wamp/www/ackermannRMuV/www/includes/pdf.fahrzeugkasko.inc.php",
+		"/E/wamp/www/ackermannRMuV/www/beratung.php",
+		"/E/wamp/www/ackermannRMuV/www/includes/connect.php",
+		"/E/wamp/www/ackermannRMuV/www/passwort.php",
+		"/E/wamp/www/ackermannRMuV/www/class.kunde.php",
+		"/E/wamp/www/ackermannRMuV/www/kunden.php",
+		"/E/wamp/www/ackermannRMuV/www/activate.php",
+		"/E/wamp/www/ackermannRMuV/www/password.php",
+		"/C/Documents and Settings/mosquito/Dane aplikacji/Sublime Text 2/Packages/FTPSync/ftpsync.sublime-settings",
+		"/C/Documents and Settings/mosquito/Dane aplikacji/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/E/wamp/www/qualinsur/itarchive.html",
+		"/E/wamp/www/qualinsur/style.css",
+		"/E/wamp/www/qualinsur/cgi-bin/html/login.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/user_editdata1.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/user_formular_a.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/user_formular_b.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/user_formular_c.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/user_formular_d.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/user_formular_e.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/user_formular_f.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/user_formular_g.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/user_formular_h.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/user_formular_i.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/user_formular_j.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/user_formular_k.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/opv_benutzerdaten2.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/opv_bestellung.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/opv_bestellung2.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/opv_bestellung3.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/opv_bestellung4.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/opv_bestellung_fehler.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/opv_invaliditaetsversicherung.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/opv_invaliditaetsversicherung2.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/opv_invaliditaetsversicherung_zuhoch.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/opv_login.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/opv_todesfallversicherung.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/opv_todesfallversicherung2.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/opv_todesfallversicherung_zuhoch.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/opv_benutzerdaten.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/opv_anmeldung.html",
+		"/E/wamp/www/qualinsur/cgi-bin/html/news.html",
+		"/E/wamp/www/qualinsur/kontakt.html",
+		"/E/wamp/www/qualinsur/kontakt_ok.html",
+		"/E/wamp/www/qualinsur/Kopia cgi-bin/html/formfreigabe.html",
+		"/E/wamp/www/qualinsur/Kopia cgi-bin/html/formsend.html",
+		"/E/wamp/www/qualinsur/Kopia cgi-bin/html/login.html",
+		"/E/wamp/www/qualinsur/Kopia cgi-bin/html/main.html",
+		"/E/wamp/www/qualinsur/Kopia cgi-bin/html/user_editdata1.html",
+		"/E/wamp/www/qualinsur/Kopia cgi-bin/html/user_formular_a.html",
+		"/E/wamp/www/qualinsur/Kopia cgi-bin/html/user_formular_b.html",
+		"/E/wamp/www/qualinsur/Kopia cgi-bin/html/user_formular_c.html",
+		"/E/wamp/www/qualinsur/Kopia cgi-bin/html/user_formular_d.html",
+		"/E/wamp/www/qualinsur/Kopia cgi-bin/html/user_formular_e.html",
+		"/E/wamp/www/qualinsur/Kopia cgi-bin/html/user_formular_f.html",
+		"/E/wamp/www/qualinsur/Kopia cgi-bin/html/user_formular_g.html",
+		"/E/wamp/www/qualinsur/Kopia cgi-bin/html/user_formular_h.html",
+		"/E/wamp/www/qualinsur/Kopia cgi-bin/html/user_formular_i.html",
+		"/E/wamp/www/qualinsur/Kopia cgi-bin/html/user_formular_j.html",
+		"/E/wamp/www/qualinsur/Kopia cgi-bin/html/user_formular_k.html",
+		"/E/wamp/www/qualinsur/outplacement-vorsorge.html",
+		"/E/wamp/www/qualinsur/produkte.html",
+		"/E/wamp/www/qualinsur/quali-at-work.html",
+		"/E/wamp/www/qualinsur/quali-at-work_aktivitaeten_15092006.html",
+		"/E/wamp/www/qualinsur/quali-at-work_aktivitaeten_24032006.html",
+		"/E/wamp/www/qualinsur/quali-at-work_kontakt.html",
+		"/E/wamp/www/qualinsur/quali-at-work_mitglieder.html",
+		"/E/wamp/www/qualinsur/services.html",
+		"/E/wamp/www/qualinsur/services_executivesearch.html",
+		"/E/wamp/www/qualinsur/services_itsicherheit.html",
+		"/E/wamp/www/qualinsur/services_portefeuille.html",
+		"/E/wamp/www/qualinsur/services_risikoberatung.html",
+		"/E/wamp/www/qualinsur/services_schadenberatung.html",
+		"/E/wamp/www/qualinsur/services_schadenexpertisen.html",
+		"/E/wamp/www/qualinsur/services_versicherungsberatung.html",
+		"/E/wamp/www/qualinsur/ueber_uns.html",
+		"/E/wamp/www/qualinsur/ueber_uns_mitarbeiter.html",
+		"/E/wamp/www/qualinsur/ueber_uns_mitarbeiter_andreasoschwald.html",
+		"/E/wamp/www/qualinsur/ueber_uns_mitarbeiter_brunoackermann.html",
+		"/E/wamp/www/qualinsur/ueber_uns_mitarbeiter_ernstciesla.html",
+		"/E/wamp/www/qualinsur/ueber_uns_mitarbeiter_fredihaller.html",
+		"/E/wamp/www/qualinsur/ueber_uns_mitarbeiter_georgstaub.html",
+		"/E/wamp/www/qualinsur/ueber_uns_mitarbeiter_heinzackermann.html",
+		"/E/wamp/www/qualinsur/ueber_uns_mitarbeiter_marclaeri.html",
+		"/E/wamp/www/qualinsur/ueber_uns_mitarbeiter_philipjung.html",
+		"/E/wamp/www/qualinsur/ueber_uns_mitarbeiter_retoaporta.html",
+		"/E/wamp/www/qualinsur/ueber_uns_standorte.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"E:\\wamp\\www\\ackermannRMuV\\www",
+			"E:\\wamp\\www\\qualinsur\\cgi-bin\\html",
+			"E:\\wamp\\www\\qualinsur"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"scrollup",
+			"conten",
+			"jQuery",
+			";\n",
+			"start",
+			"mateusz",
+			"mateusz.skoczylas@gmail.com",
+			"Vora",
+			"Vorame",
+			"fahrzeugkasko",
+			"fi",
+			"overlay",
+			"class=\"info\"",
+			"@",
+			"\n$this->getContent(",
+			" . ",
+			" . '",
+			" . ",
+			"v_adresse",
+			"Fahrzeug",
+			"fahr",
+			"$subject",
+			"$row2[",
+			"]);",
+			"email_admin",
+			"mailer",
+			"setType",
+			"this->type",
+			"slider",
+			"slide\"",
+			"anzeigen",
+			"SET",
+			"session",
+			"newPass1",
+			"class.kunde",
+			"oldPass",
+			"']));\n",
+			"validatePassword",
+			"validatePass",
+			"validate",
+			"oldPass",
+			"\">\n",
+			"		\n",
+			"<b>Schadenmeldungen</b></a> \n        | <a href=\"../kooperationen.html\"",
+			"class=\"menu1\">Schadenmeldungen</a>",
+			"class=\"menu1\">Kooperationen</a>|",
+			"class=\"menu1\">IT-Archive</a ",
+			"Schadenmeldungen</a>",
+			"class=\"menu1\"><b>Schadenmeldungen</b></a>",
+			"Schadenmeldungen",
+			"class=\"menu1\">Schadenmeldungen</a>",
+			"\"Schadenmeldungen</a>\"",
+			"Schadenmeldungen</a>",
+			"<b>IT-Archive</b>",
+			"Schadenmeldungen</a>",
+			"Produkte</a>",
+			"true",
+			"alt+n",
+			" {2,}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$this->getContent(",
+			"));",
+			"class=\"menu1\"><b>Schadenmeldungen</b></a> \n      | <a href=\"itarchive.html\" class=\"menu1\">IT-Archive</a> \n      | <a href=\"../kooperationen.html\"",
+			"class=\"menu1\">Schadenmeldungen</a> \n      | <a href=\"itarchive.html\" class=\"menu1\"><b>IT-Archive</b></a> ",
+			"class=\"menu1\">Kooperationen</a> |",
+			"class=\"menu1\">IT-Archive</a> ",
+			"Schadenmeldungen</a> \n      | <a href=\"itarchive.html\" class=\"menu1\">IT-Archive</a",
+			"class=\"menu1\">Schadenmeldungen</a> \n      | <a href=\"itarchive.html\" class=\"menu1\">IT-Archive</a>",
+			"Schadenmeldungen</a> \n      | <a href=\"itarchive.html\" class=\"menu1\">IT-Archive</a>",
+			"<b>IT-Archive</b>rchive.html\" class=\"menu1\"><b>IT-Archive</b></a>\n<b>IT-Archive</b>rchive.html\" class=\"menu1\"><b>IT-Archive</b></a>\nIT-Archive",
+			"Produkte</a> \nSchadenmeldungen</a> \n      | <a href=\"itarchive.html\" class=\"menu1\"><b>IT-Archive</b></a>",
+			"Produkte</a> \n      | <a href=\"cgi-bin/qualinsur.cgi\" class=\"menu1\">Schadenmeldungen</a>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"f",
+				"footer.inc.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"style",
+				"css/styles.css"
+			],
+			[
+				"foo",
+				"footer.inc.php"
+			],
+			[
+				"fil",
+				"film.php"
+			],
+			[
+				"film",
+				"Scripts/film-lightbox.js"
+			],
+			[
+				"_in",
+				"_index.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"",
+				"css/styles.css"
+			],
+			[
+				"fo",
+				"footer.inc.php"
+			],
+			[
+				"sty",
+				"css/styles.css"
+			],
+			[
+				"auto",
+				"autoversicherung.php"
+			],
+			[
+				"autove",
+				"includes/email.autoversicherung.inc.php"
+			],
+			[
+				"bau",
+				"bauversicherung.php"
+			],
+			[
+				"emba",
+				"includes/email.bauversicherung.inc.php"
+			],
+			[
+				"ha",
+				"hausrat.php"
+			],
+			[
+				"haus",
+				"includes/email.hausrat.inc.php"
+			],
+			[
+				"pdfhau",
+				"includes/pdf.hausrat.inc.php"
+			],
+			[
+				"pdf",
+				"includes/pdf.privathaftpflicht.inc.php"
+			],
+			[
+				"pr",
+				"privathaftpflicht.php"
+			],
+			[
+				"em",
+				"includes/email.hausrat.inc.php"
+			],
+			[
+				"emaipr",
+				"includes/email.privathaftpflicht.inc.php"
+			],
+			[
+				"emha",
+				"includes/email.hausrat.inc.php"
+			],
+			[
+				"efah",
+				"includes/email.fahrzeugkasko.inc.php"
+			],
+			[
+				"claf",
+				"class.form.php"
+			],
+			[
+				"valida",
+				"class.validator.php"
+			],
+			[
+				"maile",
+				"class.mailer.php"
+			],
+			[
+				"forme",
+				"class.formelements.php"
+			],
+			[
+				"css",
+				"css/styles.css"
+			],
+			[
+				"foot",
+				"footer.inc.php"
+			],
+			[
+				"conn",
+				"includes/connect.php"
+			],
+			[
+				"clac",
+				"class.activate.php"
+			],
+			[
+				"heade",
+				"header.inc.php"
+			],
+			[
+				"claac",
+				"class.activate.php"
+			],
+			[
+				"act",
+				"activate.php"
+			],
+			[
+				"clku",
+				"class.kunde.php"
+			],
+			[
+				"kunde",
+				"kunden.php"
+			],
+			[
+				"login",
+				"cgi-bin/html/login.html"
+			],
+			[
+				"logi",
+				"cgi-bin/html/login.html"
+			],
+			[
+				"p",
+				"produkte.html"
+			],
+			[
+				"it",
+				"itarchive.html"
+			],
+			[
+				"pro",
+				"produkte.html"
+			],
+			[
+				"tp",
+				"_temp/PDF-Reuse-Tutorial-0.11.tar.gz"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/wamp/www/ackermannRMuV/www/ackermann.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true
+}
